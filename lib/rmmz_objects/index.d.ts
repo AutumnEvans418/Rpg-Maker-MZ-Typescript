@@ -22,3 +22,9 @@ export * from './Game_Variables';
 
 export * from './Game_Temp';
 export * from './Game_Message';
+
+export * from './Game_Map';
+
+export * from './Game_Player';
+
+export * from './Game_Actors';
